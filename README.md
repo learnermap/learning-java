@@ -15,6 +15,8 @@
   - Condicionais
   - Controle de fluxo com laços
 
+- **27/02/2023**:
+  - Exercicios sobre estrutura sequencial 
 
 ## Links úteis
 
