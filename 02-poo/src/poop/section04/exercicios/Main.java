@@ -1,4 +1,4 @@
-package section04.exercicios;
+package poop.section04.exercicios;
 
 import java.util.Scanner;
 import java.util.Locale;
